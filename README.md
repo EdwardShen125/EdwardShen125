@@ -11,3 +11,14 @@ Senior Go backend / platform engineer. Distributed systems at Chinese SaaS scale
 - [Debugging a Sporadic Go OOM in a Recursive JSON Encode Path](https://edwardshen125.github.io/posts/engineering-case-study/debugging-a-sporadic-go-oom-in-a-recursive-json-encode-path/)
 
 Currently open to senior backend / platform roles, remote or relocation.
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EdwardShen125&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=EdwardShen125&theme=transparent&hide_border=true" alt="Contribution streak" />
+</p>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,kafka,redis,mongodb,mysql,flink,kubernetes,docker" alt="Stack: Go, Kafka, Redis, MongoDB, MySQL, Flink, Kubernetes, Docker" />
+  </a>
+</p>
