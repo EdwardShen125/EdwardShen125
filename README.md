@@ -4,6 +4,8 @@ Senior Go backend / platform engineer. Distributed systems at Chinese SaaS scale
 
 **Stack:** Go · Kafka · Redis · MongoDB · TiDB CDC · Flink · Kubernetes
 
+**Open source** — [hourglass](https://github.com/EdwardShen125/hourglass): delayed jobs & cron for Go. SQLite embedded, sharded MySQL/TiDB + etcd cluster, same engine — time-wheel precision, SQL truth, epoch-fenced failover. Clean-room rebuild of a 200K jobs/s production scheduler ([write-up](https://edwardshen125.github.io/posts/engineering-case-study/building-a-production-go-scheduler-for-200k-delayed-jobs-per-second/)). Also contributing to Apache [pulsar-client-go](https://github.com/apache/pulsar-client-go) (encryption & batch deserialization, consumer lifecycle), [arrow-go](https://github.com/apache/arrow-go) (Parquet modular encryption, pyarrow interop), and [dubbo-go](https://github.com/apache/dubbo-go) / [gost](https://github.com/dubbogo/gost) (global logger data race).
+
 **Recent writing** — full archive at [edwardshen125.github.io](https://edwardshen125.github.io/):
 
 - [One Queue for Every State Change: Fixing Silent Over-Assignment in a Live QR Code System](https://edwardshen125.github.io/posts/engineering-case-study/one-queue-for-every-state-change-fixing-silent-over-assignment-in-a-live-qr-code-system/) — serializing WeCom QR-code membership updates through one Kafka topic, against the vendor's rate limits
